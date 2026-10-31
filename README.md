@@ -2,6 +2,8 @@
 
 A clean, fast calendar web app built with React, TypeScript and Vite.
 
+**Live app:** https://adore20.github.io/Tempus-calendar/
+
 ## Features
 
 - **Month, week and day views**, with today highlighted and a live "now" line
